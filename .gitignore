@@ -1,0 +1,56 @@
+# Byte-compiled / caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+
+# Virtual environments
+venv/
+.env/
+ENV/
+env/
+.venv/
+.Python
+
+# pyenv
+.python-version
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Tests / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type checkers / caches
+.mypy_cache/
+.pyre/
+.typing/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Local project data (не добавляем в репозиторий по умолчанию)
+favorites.json
